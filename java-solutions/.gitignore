@@ -1,0 +1,27 @@
+*.jar
+*.class
+.vscode
+*/Expression.java
+*/TripleExpression.java
+java-solutions/base
+/expression/generic/Tabulator.java
+
+# Tests for expression
+expression/common/*
+expression/exceptions/ExceptionsTest.java
+expression/exceptions/ExceptionsTester.java
+expression/exceptions/ExceptionsTestSet.java
+expression/ToMiniString.java
+expression/ExpressionTester.java
+expression/parser/Operations.java
+expression/parser/ParserTester.java
+expression/parser/ParserTestSet.java
+expression/exceptions/TripleParser.java
+
+test
+test/**
+
+expression/generic/GenericTest.java
+expression/generic/GenericTester.java
+
+compiler.py
