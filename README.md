@@ -8,15 +8,7 @@
 
 ## Экзамен. [4 в ряд на Clojure](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/tree/master/exam).
 
-Модификации
- * *Base*
-    * Код должен находиться в файле `clojure-solutions/expression.clj`.
-    * [Исходный код тестов](clojure/cljtest/parsing/ParserTest.java)
-        * Запускать c указанием модификации и сложности (`easy` или `hard`).
- * *Variables* (31-33). Дополнительно реализовать поддержку:
-    * Переменных, состоящих из произвольного количества букв `XYZ` в любом регистре
-        * Настоящее имя переменной определяется первой буквой ее имени   
-
+https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5_%D0%B2_%D1%80%D1%8F%D0%B4
 
 ## Домашнее задание 12. [Комбинаторные парсеры](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/blob/master/clojure-solutions/expression.clj)
 
