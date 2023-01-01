@@ -1,4 +1,6 @@
-## Домашнее задание 12. Комбинаторные парсеры
+# Решения домашних заданий по курсу Парадигмы Программирования (ITMO y2021)
+
+## Экзамен. [4 в ряд на Clojure](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/tree/master/exam).
 
 Модификации
  * *Base*
@@ -9,7 +11,19 @@
     * Переменных, состоящих из произвольного количества букв `XYZ` в любом регистре
         * Настоящее имя переменной определяется первой буквой ее имени   
 
-## Домашнее задание 11. Объектные выражения на Clojure
+
+## Домашнее задание 12. [Комбинаторные парсеры](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/blob/master/clojure-solutions/expression.clj)
+
+Модификации
+ * *Base*
+    * Код должен находиться в файле `clojure-solutions/expression.clj`.
+    * [Исходный код тестов](clojure/cljtest/parsing/ParserTest.java)
+        * Запускать c указанием модификации и сложности (`easy` или `hard`).
+ * *Variables* (31-33). Дополнительно реализовать поддержку:
+    * Переменных, состоящих из произвольного количества букв `XYZ` в любом регистре
+        * Настоящее имя переменной определяется первой буквой ее имени   
+
+## Домашнее задание 11. [Объектные выражения на Clojure](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/blob/master/clojure-solutions/expression.clj)
 
 Модификации
  * *Базовая*
@@ -22,7 +36,7 @@
         * `Ln`  (`Ln`)  – натуральный логарифм абсолютной величины, `(ln 2981)` примерно равно 8.
 
 
-## Домашнее задание 10. Функциональные выражения на Clojure
+## Домашнее задание 10. [Функциональные выражения на Clojure](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/blob/master/clojure-solutions/expression.clj)
 
 Модификации
  * *Base*
@@ -35,7 +49,7 @@
         * `ln`  – натуральный логарифм абсолютной величины, `(ln -2981)` примерно равно 8.
 
 
-## Домашнее задание 9. Линейная алгебра на Clojure
+## Домашнее задание 9. [Линейная алгебра на Clojure](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/blob/master/clojure-solutions/linear.clj)
 
 Модификации
  * *Базовая*
@@ -51,7 +65,7 @@
         должно быть равно `[[[6] [8]] [[10] [12]]]`.
 
 
-## Домашнее задание 8. Обработка ошибок на JavaScript
+## Домашнее задание 8. [Обработка ошибок на JavaScript](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/blob/master/javascript-solutions/objectExpression.js)
 
 Модификации
  * *Base*
@@ -66,7 +80,7 @@
 
 
 
-## Домашнее задание 7. Объектные выражения на JavaScript
+## Домашнее задание 7. [Объектные выражения на JavaScript](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/blob/master/javascript-solutions/objectExpression.js)
 
 Модификации
  * *Base*
@@ -78,7 +92,7 @@
         * `Min3` (`min3`) – минимум из трех аргументов, `1 2 3 min` равно 1;
         * `Max5` (`max5`) – максимум из пяти аргументов, `1 2 3 4 5 max` равно 5.
 
-## Домашнее задание 6. Функциональные выражения на JavaScript
+## Домашнее задание 6. [Функциональные выражения на JavaScript](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/blob/master/javascript-solutions/functionalExpression.js)
 
 Модификации
  * *Базовая*
@@ -96,7 +110,7 @@
         * `e` – основание натурального логарифма;
 
 
-## Домашнее задание 5. Вычисление в различных типах
+## Домашнее задание 5. [Вычисление в различных типах](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/tree/master/java-solutions/expression)
 
 Модификации
  * *Base*
@@ -122,7 +136,7 @@
         * `max` – максимум, `2 max 3` равно 3.
 
 
-## Домашнее задание 4. Очереди
+## Домашнее задание 4. [Очереди](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/tree/master/java-solutions/queue)
 
 Модификации
  * *Базовая*
@@ -133,7 +147,7 @@
       [предикату](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/function/Predicate.html).
 
 
-## Домашнее задание 3. Очередь на массиве
+## Домашнее задание 3. [Очередь на массиве](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/tree/master/java-solutions/queue)
 
 Модификации
  * *Базовая*
@@ -144,7 +158,7 @@
     * Реализовать метод `count`, возвращающий число вхождений элемента в очередь.
 
 
-## Домашнее задание 2. Бинарный поиск
+## Домашнее задание 2. [Бинарный поиск](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/tree/master/java-solutions/search)
 
 Модификации
  * *Базовая*
@@ -158,7 +172,7 @@
       [`Arrays.binarySearch`](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Arrays.html#binarySearch(int%5B%5D,int)).
     * Класс должен иметь имя `BinarySearchMissing`
 
-## Домашнее задание 1. Обработка ошибок
+## Домашнее задание 1. [Обработка ошибок](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/tree/master/java-solutions/expression)
 
 Модификации
  * *Base*
