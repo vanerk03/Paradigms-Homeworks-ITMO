@@ -1,5 +1,11 @@
 # Решения домашних заданий по курсу Парадигмы Программирования (ITMO y2021)
 
+### P.S. Возможно вам будет интересно в какой среде удобнее писать домашки:
+- Java - Vscode/Idea
+- Clojure - Vscode + Lein (вот немного ресурсов, которые помогут вам разобраться как это поставить: https://leiningen.org/ https://www.youtube.com/watch?v=6uUynWkMDGM https://calva.io/ (расширение для vscode (линтинг кода + анализ)
+- JavaScript - Vscode + NodeJS (для дз особо разницы не было)
+- Prolog - также можно в VScode, запуск через скрипт Корнеева
+
 ## Экзамен. [4 в ряд на Clojure](https://github.com/vanerk03/Paradigms-Homeworks-ITMO/tree/master/exam).
 
 Модификации
